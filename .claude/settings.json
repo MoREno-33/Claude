@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "openshorts": {
+      "source": {
+        "source": "github",
+        "repo": "mutonby/openshorts-plugin"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "openshorts@openshorts": true
+  }
+}
